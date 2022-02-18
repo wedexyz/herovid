@@ -1,7 +1,7 @@
 flask
 gunicorn
 
-opencv-python-headless==4.2.0.32
+opencv-python
 libsm6
 libxrender1
 libfontconfig1
