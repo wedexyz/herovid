@@ -1,6 +1,6 @@
 flask
 gunicorn
-socket
+
 opencv-python-headless==4.2.0.32
 libsm6
 libxrender1
