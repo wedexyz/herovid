@@ -1,5 +1,9 @@
 flask
 gunicorn
 socket
-opencv-python
+opencv-python-headless==4.2.0.32
+libsm6
+libxrender1
+libfontconfig1
+libice6
 
